@@ -6,4 +6,4 @@
 2. [Surf](https://leonidlukin.github.io/surf/).
   - Gulp
   + SCSS
-  + 
+  -g
