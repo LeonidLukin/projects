@@ -1,5 +1,5 @@
 # projects
-1. [Ikea](https://leonidlukin.github.io/Ikea/).
+1. [Demo / Ikea](https://leonidlukin.github.io/Ikea/).[Repository / Ikea](https://github.com/LeonidLukin/Ikea).
   - JavaScript;
   - Ajax;
   - Responsive;
