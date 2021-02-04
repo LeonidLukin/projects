@@ -7,6 +7,4 @@
   - Gulp;
   - SCSS;
   - Responsive;
-3. Third item
-  - Indented item
 
