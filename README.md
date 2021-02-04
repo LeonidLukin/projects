@@ -1,5 +1,5 @@
 # projects
-1. #### ikea [Demo](https://leonidlukin.github.io/Ikea/)/[Repository](https://github.com/LeonidLukin/Ikea)
+1. ### ikea [Demo](https://leonidlukin.github.io/Ikea/)/[Repository](https://github.com/LeonidLukin/Ikea)
   - JavaScript;
   - Ajax;
   - Responsive;
