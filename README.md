@@ -3,9 +3,9 @@
   - JavaScript;
   - Ajax;
   - Responsive;
-2. **spaceX** [Demo](https://leonidlukin.github.io/SpaceX/)/[Repository](https://leonidlukin.github.io/SpaceX/)
+2. **spaceX** [Demo](https://leonidlukin.github.io/SpaceX/)/[Repository](https://github.com/LeonidLukin/SpaceX)
   - React;
-2. **surf** [Demo](https://leonidlukin.github.io/surf/)/[Repository](https://leonidlukin.github.io/surf/)
+2. **surf** [Demo](https://leonidlukin.github.io/surf/)/[Repository](https://github.com/LeonidLukin/surf)
   - Gulp;
   - SCSS;
   - Responsive;
