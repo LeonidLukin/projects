@@ -1,5 +1,5 @@
 # projects
-1. [Ikea](hhttps://leonidlukin.github.io/Ikea/).
+1. [Ikea](https://leonidlukin.github.io/Ikea/).
   - JavaScript
 2. [SpaceX](https://leonidlukin.github.io/SpaceX/).
   - React
