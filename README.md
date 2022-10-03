@@ -6,8 +6,12 @@
 2. **spaceX** [Demo](https://leonidlukin.github.io/SpaceX/)/[Repository](https://github.com/LeonidLukin/SpaceX)
   - React;
   - Responsive;
-2. **surf** [Demo](https://leonidlukin.github.io/surf/app/index.html)/[Repository](https://github.com/LeonidLukin/surf)
+3. **surf** [Demo](https://leonidlukin.github.io/surf/app/index.html)/[Repository](https://github.com/LeonidLukin/surf)
   - Gulp;
   - SCSS;
   - Responsive;
-
+4. **phonebook** [Demo](https://leonidlukin.github.io/goit-react-hw-04-phonebook/)/[Repository](https://github.com/LeonidLukin/goit-react-hw-04-phonebook)
+  - React;
+  - Hooks;
+  - LocalStorage;
+  - Responsive;
