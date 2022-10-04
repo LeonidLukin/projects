@@ -20,4 +20,4 @@
   - Hooks;
   - LocalStorage;
   - Responsive;
-  - API
+  - REST API
