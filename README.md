@@ -10,7 +10,7 @@
   - Gulp;
   - SCSS;
   - Responsive;
-4. **Phonebook** [Demo](https://leonidlukin.github.io/goit-react-hw-04-phonebook/)/[Repository](https://github.com/LeonidLukin/goit-react-hw-04-phonebook)
+4. **Phonebook** [Demo](https://leonidlukin.github.io/goit-react-hw-07-phonebook/)/[Repository](https://github.com/LeonidLukin/goit-react-hw-07-phonebook)
   - React;
   - Hooks;
   - LocalStorage;
